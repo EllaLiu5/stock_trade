@@ -1,0 +1,68 @@
+.queryForm{
+  width: 60%;
+  margin-top: 30px;
+  padding:40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+	border-radius: 10px;
+}
+
+.queryFormActions{
+  display: inline;
+}
+
+input{
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  width: 60%;
+  color: #2C3E50;
+  margin-right: 10px;
+}
+
+ul{
+	list-style: none;
+  width: 60%;
+  margin-top: 30px;
+  padding:40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.tradeStocks{
+  width: 60%;
+  margin-top: 10px;
+  padding:10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+	border-radius: 10px;
+}
+
+.tradeForm{
+  width: 50%;
+  margin: auto;
+}
+
+.displayCurrentStock{
+  width: 60%;
+  margin-top: 30px;
+  padding:40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.error{
+  text-decoration-color: red;
+}

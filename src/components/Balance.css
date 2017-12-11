@@ -1,0 +1,26 @@
+.userBalance{
+  width: 60%;
+  margin-top: 30px;
+  padding:40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: white;
+	border-radius: 10px;
+}
+.balanceForm{
+  width: 50%;
+  margin: auto;
+}
+.input-group-btn{
+  display: inline;
+}
+
+.balanceDisplay{
+  padding: 10px 0 0 0;
+  text-align: center;
+  letter-spacing: 2px;
+  margin: 0 0 20px;
+  font-size: 48px;
+  font-weight: 300;
+}
